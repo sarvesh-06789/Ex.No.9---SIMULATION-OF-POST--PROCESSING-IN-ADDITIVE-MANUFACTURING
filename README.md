@@ -32,23 +32,25 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
+![image](https://github.com/user-attachments/assets/919f6c0d-4a4e-4a84-bed0-0a5b743f689e)
+![image](https://github.com/user-attachments/assets/b23f8055-4f6f-4e92-99f0-42c3900696bb)
+UV Curing of 3D printed part
+![image](https://github.com/user-attachments/assets/636d37d6-11fa-4ae5-997c-e8645d6e813b)
+![image](https://github.com/user-attachments/assets/9b5f36c2-a714-496a-9be3-ff4fc754562b)
+Heat Treatment of 3D printed part
+![image](https://github.com/user-attachments/assets/6f51dbe6-7de7-4e44-9965-f94ba0b283da)
+![image](https://github.com/user-attachments/assets/e31328be-9788-4fa4-b306-e5f33bd60b2a)
 
-## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
 
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
 
-## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
-## Output:
 
-### Name:
-### Register Number:
+
+
+
+
+### Name:Purusothaman K
+### Register Number:24901211
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
